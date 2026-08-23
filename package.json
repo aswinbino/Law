@@ -1,0 +1,13 @@
+{
+  "name": "jurisbot-india",
+  "version": "1.0.0",
+  "description": "Indian Law & Fine Information Web App with AI Chatbot - JurisBot India",
+  "scripts": {
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "seed": "cd backend && npm run seed"
+  },
+  "keywords": ["jurisbot", "indian-law", "legaltech", "rag", "pinecone", "langchain", "openai"],
+  "author": "JurisBot India AI",
+  "license": "MIT"
+}

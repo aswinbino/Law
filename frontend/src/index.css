@@ -1,0 +1,66 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Plus+Jakarta+Sans:wght@600;700;800&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: #000000;
+  color: #f5f5f5;
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 5px;
+  height: 5px;
+}
+::-webkit-scrollbar-track {
+  background: #111;
+}
+::-webkit-scrollbar-thumb {
+  background: #333;
+  border-radius: 99px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+/* Mono glass panels */
+.panel-dark {
+  background: #0a0a0a;
+  border: 1px solid #1f1f1f;
+}
+
+.panel-mid {
+  background: #111111;
+  border: 1px solid #222222;
+}
+
+/* White glow accent */
+.glow-white {
+  box-shadow: 0 0 20px -4px rgba(255,255,255,0.08);
+}
+
+/* Invert badge */
+.badge-white {
+  background: #ffffff;
+  color: #000000;
+  font-weight: 800;
+}
+
+.badge-outline {
+  background: transparent;
+  border: 1px solid #333;
+  color: #ccc;
+}

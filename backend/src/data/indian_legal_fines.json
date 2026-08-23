@@ -1,0 +1,50 @@
+[
+  {
+    "id": "statute_001",
+    "title": "Riding Without a Helmet",
+    "act_or_section": "Motor Vehicles Act § 194D",
+    "category": "Traffic Violation",
+    "baseFine": "₹1,000",
+    "description": "Riding or driving a two-wheeler without a protective helmet conforming to BIS standards. Carries an additional penalty of 3-month driver's licence disqualification."
+  },
+  {
+    "id": "statute_002",
+    "title": "Driving Without a Valid Licence",
+    "act_or_section": "Motor Vehicles Act § 181",
+    "category": "Traffic Violation",
+    "baseFine": "₹5,000",
+    "description": "Operating a motor vehicle on public roads without holding an active, valid driving licence. May also involve community service or vehicle impoundment."
+  },
+  {
+    "id": "statute_003",
+    "title": "Driving Under the Influence (DUI / Drunk Driving)",
+    "act_or_section": "Motor Vehicles Act § 185",
+    "category": "Traffic & Criminal Violation",
+    "baseFine": "Up to ₹10,000",
+    "description": "Driving with blood alcohol content exceeding 30 mg per 100 ml of blood. First offence attracts fine up to ₹10,000 and/or imprisonment up to 6 months."
+  },
+  {
+    "id": "statute_004",
+    "title": "Driving Without Pollution Under Control Certificate (PUCC)",
+    "act_or_section": "Motor Vehicles Act § 190(2)",
+    "category": "Environmental & Traffic",
+    "baseFine": "Up to ₹10,000",
+    "description": "Operating a motor vehicle violating environmental standards or lacking a valid PUCC. Also punishable with licence suspension for up to 3 months."
+  },
+  {
+    "id": "statute_005",
+    "title": "Public Nuisance",
+    "act_or_section": "Bharatiya Nyaya Sanhita (BNS) § 270 / IPC § 268",
+    "category": "Civic & Penal Code",
+    "baseFine": "Up to ₹1,000",
+    "description": "Doing an act causing common injury, danger, or annoyance to the public or people in the vicinity."
+  },
+  {
+    "id": "statute_006",
+    "title": "Theft Penalties",
+    "act_or_section": "Bharatiya Nyaya Sanhita (BNS) § 303",
+    "category": "Penal Code",
+    "baseFine": "Discretionary fine + Imprisonment up to 3 years",
+    "description": "Dishonestly taking moveable property out of the possession of any person without consent."
+  }
+]
